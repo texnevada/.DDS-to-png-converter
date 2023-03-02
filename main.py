@@ -45,8 +45,8 @@ def init_run():
     print()
     global DeleteInputFiles
     print(f"{green}=================\n"
-          f"  Image converter\n"
-          f"  version: {cyan}{version}{green}\n"
+          f" Image converter\n"
+          f" version: {cyan}{version}{green}\n"
           f"================={reset}")
 
     InputFolder = "Input"
